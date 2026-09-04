@@ -6,16 +6,16 @@ Entire rework of the gamemode Strike force missions from the campaign to be like
 
 ## Features
 
-- Spec Ops style missions
 - Custom enemy behavior
-- Custom objectives 
+- Wave based gamemode 
 - New gameplay systems
+- Shop to buy troops and perks
 
 ## Requirements
 
 - Call of Duty: Black Ops II
 - Campaign installed
-- Infinity loader with an account.
+- Infinity loader with an account
   
 ## Installation
 
@@ -34,7 +34,7 @@ Entire rework of the gamemode Strike force missions from the campaign to be like
 13. Go back in the extracted file and go in the .gsc file.
 14. Copy paste everything to the main.gsc on the right text you deleted.
 15. Launch Bo2 from steam and while in the main menu click on compile project (middle paper icon on infinity loader)
-16. A taxt show up and load the mod then you can start the mission FOB Spectre and play !
+16. A text show up and load the mod then you can start the mission FOB Spectre and play !
 
 ## Compatibility
 
@@ -48,7 +48,7 @@ Entire rework of the gamemode Strike force missions from the campaign to be like
 ## Known Issues
 
 - Soldier ai froze when the game is too long
-- Agr speed and physics is bugged (cause the map do not support them natively)
+- Ally Agr speed and physics is bugged (cause the map do not support them natively)
 
 ## Credits
 
