@@ -15,6 +15,7 @@ Entire rework of the gamemode Strike force missions from the campaign to be like
 - Wave based gamemode 
 - New gameplay systems
 - Shop to buy troops and perks
+- Scaled difficulty (recruit 0,5x enemy and veteran is 2,5x more enemy)
 
 ## Requirements
 
