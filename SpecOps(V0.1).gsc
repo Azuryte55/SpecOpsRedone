@@ -30,7 +30,7 @@
 // A.G.R.s attack only enemies they can currently see and otherwise wander
 // between valid Drone-map objectives. Both teams move at 2x stock speed.
 // Allied C.L.A.W. miniguns deal half damage.
-// Enemy wave allocations scale with campaign difficulty: Recruit 0.5x,
+// Enemy wave spawn scale with campaign difficulty: Recruit 0.5x,
 // Regular 1x, Hardened 1.5x and Veteran 2.5x.
 
 // Infinity Loader's BO2 single-player template enters through init().
