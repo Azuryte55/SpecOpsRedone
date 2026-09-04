@@ -1,4 +1,9 @@
-# Black Ops II Spec Ops Mod
+# Black Ops II Spec Ops Redone Mod
+
+##Links
+
+Video : https://youtu.be/z28Ea6LzRD4
+My plutonium : https://forum.plutonium.pw/user/azuryte115
 
 ## About
 
